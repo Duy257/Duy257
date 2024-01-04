@@ -52,4 +52,4 @@
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png"
         alt="aws lamda" width="40" height="40" /> </a>
   </p>
-  <h3>Thank you for reading this far!</p>
+  <h3>Thank you and I look forward to getting to know you!</h3>
