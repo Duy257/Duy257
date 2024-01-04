@@ -9,10 +9,10 @@
 
   <h3 align="left">You can connect with me:</h3>
   <p align="left">
-    <a href="https://www.facebook.com/profile.php?id=100014826553313" target="blank"><img align="center"
+    <a href="https://www.facebook.com/profile.php?id=100014826553313" target="_blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
         alt="https://www.facebook.com/profile.php?id=100014826553313" height="40" width="40" /></a>
-    <a href="https://www.linkedin.com/in/duy-nguyễn-76a952254" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/duy-nguyễn-76a952254" target="_blank"><img align="center"
         src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"
         alt="https://www.linkedin.com/in/duy-nguyễn-76a952254" height="40" width="40" /></a>
   </p>
